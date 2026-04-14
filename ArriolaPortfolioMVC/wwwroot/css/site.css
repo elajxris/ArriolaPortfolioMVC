@@ -1,0 +1,39 @@
+
+body {
+    background: linear-gradient(135deg, #ffe4ec, #fff0f5);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+.navbar {
+    background: #ff69b4 !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: white !important;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.btn-primary {
+    background: #ff69b4;
+    border: none;
+    border-radius: 20px;
+}
+
+    .btn-primary:hover {
+        background: #ff1493;
+    }
+
+.section {
+    margin-top: 60px;
+}
